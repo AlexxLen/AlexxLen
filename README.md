@@ -8,7 +8,7 @@
 
 I'm Alexander Lenchekov, a passionate software developer with a love for coding and problem-solving.
 
-<img height="300" alt="Rayan Berserk"  src="https://i.pinimg.com/564x/54/ef/c2/54efc256367e97a78be750e2ed903f0c.jpg" align="right" style='border-radius: 10px;'>
+<img height="260" alt="Rayan Berserk"  src="https://i.pinimg.com/564x/54/ef/c2/54efc256367e97a78be750e2ed903f0c.jpg" align="right" style='border-radius: 10px;'>
 
 ### - Learning :
 
