@@ -50,7 +50,7 @@ I'm Alexander Lenchekov, a passionate software developer with a love for coding 
 
 Looking forward to connecting with you! 🚀
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xx_alex_lllenchenkov_xx)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AlexxLen)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lenchekov.a.d@gmail.com)
 
 <br/>
